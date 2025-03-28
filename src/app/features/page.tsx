@@ -26,7 +26,7 @@ export default function Features() {
               </p>
               <div className="bg-[#FFDDAB]/30 p-3 rounded-lg">
                 <p className="text-[#945034] italic">
-                  예: "너는 사용자의 여행 계획을 세워주는 여행 컨설턴트야."
+                  예: &ldquo;너는 사용자의 여행 계획을 세워주는 여행 컨설턴트야.&rdquo;
                 </p>
               </div>
             </div>
@@ -77,7 +77,7 @@ export default function Features() {
               </p>
               <div className="bg-[#5F8B4C]/20 p-3 rounded-lg">
                 <p className="text-[#945034] italic">
-                  예: "파리에서 3박 4일 일정짜기", "뉴스 요약하기", "영어 번역하기"
+                  예: &ldquo;파리에서 3박 4일 일정짜기&rdquo;, &ldquo;뉴스 요약하기&rdquo;, &ldquo;영어 번역하기&rdquo;
                 </p>
               </div>
             </div>

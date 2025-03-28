@@ -19,10 +19,10 @@ export default function Home() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-10 my-10">
           <div className="bg-[#FFDDAB]/30 rounded-xl p-6 md:p-8 md:w-1/2 border-l-4 border-[#945034]">
             <p className="text-lg md:text-xl text-center italic text-[#945034] leading-relaxed">
-              "AI가 내 경험까지 대신 써주는 세상 ✍️<br />
-              지피터스와 개발자F가 꼼꼼히 만든 '사례 게시글 작성 GPT'로<br />
+              &ldquo;AI가 내 경험까지 대신 써주는 세상 ✍️<br />
+              지피터스와 개발자F가 꼼꼼히 만든 &lsquo;사례 게시글 작성 GPT&rsquo;로<br />
               직접 써본 리얼한 후기와 제작 꿀팁까지 모두 공개합니다 😎✨<br />
-              지금부터 솔직하게 들려드릴게요!"
+              지금부터 솔직하게 들려드릴게요!&rdquo;
             </p>
           </div>
 
