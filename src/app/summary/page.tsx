@@ -32,7 +32,7 @@ export default function Summary() {
                 <div>
                   <p className="font-medium">1. 지침(Instructions)</p>
                   <p className="text-sm leading-relaxed">GPT에게 전반적인 역할과 행동 방식을 알려주는 기본 규칙</p>
-                  <p className="text-sm italic">예: "너는 사용자의 여행 계획을 세워주는 여행 컨설턴트야."</p>
+                  <p className="text-sm italic">예: &ldquo;너는 사용자의 여행 계획을 세워주는 여행 컨설턴트야.&rdquo;</p>
                 </div>
                 
                 <div>
@@ -50,7 +50,7 @@ export default function Summary() {
                 <div>
                   <p className="font-medium">4. 작업(Tasks)</p>
                   <p className="text-sm leading-relaxed">GPT가 사용자를 대신해 실제로 수행해야 하는 구체적인 행동이나 목표</p>
-                  <p className="text-sm italic">예: "파리에서 3박 4일 일정짜기", "뉴스 요약하기"</p>
+                  <p className="text-sm italic">예: &ldquo;파리에서 3박 4일 일정짜기&rdquo;, &ldquo;뉴스 요약하기&rdquo;</p>
                 </div>
               </div>
             </div>
